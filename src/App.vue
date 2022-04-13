@@ -3,12 +3,16 @@
     <div class="punch">
         <p>
             Seriously, just disable SELinux.<br>
-            <a href="https://www.youtube.com/watch?v=_WOKRaM-HI4">Learn how to use it</a> and realise it's shit then turn it off.
+            <a href="https://www.youtube.com/watch?v=_WOKRaM-HI4">Learn how to use it</a> and realize it's shit then turn it off.
         </p>
         <p>
-            Every time you run <span style="font-family: monospace">setenforce 0</span>, you fix all your problems<br>
+            Every time you run <kbd>setenforce 0</kbd>, you fix all your problems<br>
             Fuck <a href="https://people.redhat.com/dwalsh/">Dan Walsh</a> for making this piece of shit
         </p>
+    </div>
+
+    <div class="footer">
+        A public service from <a href="https://github.com/dectom">Declan O'Driscoll</a>
     </div>
   </div>
 </template>
